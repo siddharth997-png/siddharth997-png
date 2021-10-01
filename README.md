@@ -6,7 +6,6 @@
 
 <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
 
-<br/>
 
 ## 🙋‍♂️ Some hightlights about me
 
