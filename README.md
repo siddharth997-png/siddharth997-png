@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="./Hi.gif" width="30px">, I'm <a href='https://siddharthkothari.live'  target="_blank" rel="noopener noreferrer"
 >Siddharth</a>
 </h1>
-<h3 align="center"><b>I'm a self motivated tech enthusiast. I love creating ebsites and solving algorithmic puzzless.</b></h3>
+<h3 align="center"><b>I'm a self motivated tech enthusiast. I love creating websites and solving algorithmic puzzless.</b></h3>
 
 <img align="right" alt="GIF" src="code.gif" width="400" height="300" />
 
