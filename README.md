@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center"><b>I'm a self motivated tech enthusiast. I love creating Websites and solving algorithmic puzzless.</b></h3>
 
-<img align="right" alt="GIF" src="code.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <br/>
 
