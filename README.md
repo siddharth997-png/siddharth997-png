@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ Some hightlights about me
 
-- 🔭 I’m currently using the **MERN Stack** to build beautiful and functional websites.
+- 🔭 I’m currently working in **Amazon Web Services - Aurora Storage** as a Software Development Engineer.
 
 - 👯 Winner of **[CodeX 2020](./CodeX2020_1stPrize_Certificate.jpeg)**
 
